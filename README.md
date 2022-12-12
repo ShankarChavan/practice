@@ -1,2 +1,3 @@
 # Deploying Machine Learning Models
-For the documentation, visit the course on Udemy.
+This project showcases how to create and deploy ml 
+Model to prod using docker and api
